@@ -109,4 +109,4 @@ async def join(ctx):
     
     
 
-client.run("ODg4NjU2NzcwMjMzNDA5NTc2.YUV4HA.1AlMBEBCvaxh0Ur0ONc4wESaebo")
+client.run("Token")
